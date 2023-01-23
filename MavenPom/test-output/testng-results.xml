@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-23T11:22:33 IST" name="Suite" finished-at="2023-01-23T11:22:40 IST" duration-ms="6889">
+    <groups>
+    </groups>
+    <test started-at="2023-01-23T11:22:33 IST" name="Test" finished-at="2023-01-23T11:22:40 IST" duration-ms="6889">
+      <class name="pomDemo.LoginTest">
+        <test-method signature="A()[pri:0, instance:pomDemo.LoginTest@437da279]" started-at="2023-01-23T11:22:34 IST" name="A" finished-at="2023-01-23T11:22:40 IST" duration-ms="6791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+      </class> <!-- pomDemo.LoginTest -->
+      <class name="pomDemo.Demo">
+        <test-method signature="B()[pri:0, instance:pomDemo.Demo@1b11171f]" started-at="2023-01-23T11:22:40 IST" name="B" finished-at="2023-01-23T11:22:40 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+        <test-method signature="c()[pri:0, instance:pomDemo.Demo@1b11171f]" started-at="2023-01-23T11:22:40 IST" name="c" finished-at="2023-01-23T11:22:40 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+      </class> <!-- pomDemo.Demo -->
+      <class name="pomDemo.Demo1">
+        <test-method signature="B()[pri:0, instance:pomDemo.Demo1@2dc54ad4]" started-at="2023-01-23T11:22:40 IST" name="B" finished-at="2023-01-23T11:22:40 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+      </class> <!-- pomDemo.Demo1 -->
+      <class name="pomDemo.Demo2">
+        <test-method signature="B()[pri:0, instance:pomDemo.Demo2@4659191b]" started-at="2023-01-23T11:22:40 IST" name="B" finished-at="2023-01-23T11:22:40 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+      </class> <!-- pomDemo.Demo2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
